@@ -1,6 +1,4 @@
 
-![logo align="center"](https://github.com/iqbalkang225/iqbalkang225/blob/main/hello.png?raw=true)
-
 <p align="center">
   <img src="https://github.com/iqbalkang225/iqbalkang225/blob/main/hello.png?raw=true" />
 </p>
