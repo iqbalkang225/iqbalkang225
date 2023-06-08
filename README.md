@@ -1,4 +1,4 @@
-<p align="align">
+<p align="center">
 ![logo align="center"](https://github.com/iqbalkang225/iqbalkang225/blob/main/hello.png?raw=true)
  </p>
 
