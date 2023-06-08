@@ -1,6 +1,10 @@
 
 ![logo align="center"](https://github.com/iqbalkang225/iqbalkang225/blob/main/hello.png?raw=true)
 
+<p align="center">
+  <img src="https://github.com/iqbalkang225/iqbalkang225/blob/main/hello.png?raw=true" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Iqbal Kang</h1>
 <h3 align="center">"Code It Up, Work It Out!”</h3>
 
