@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning **gsap** 
 - 👨‍💻 All of my projects are available at [https://www.iqbalkang.dev/](https://www.iqbalkang.dev/) 
 - 💬 Ask me about **MERN, PERN** 
-- 📫 How to reach me **iqbal.kang.cohort225@gmail.com** 
+- 📫 How to reach me **iqbal.kang@yahoo.com** 
 - ⚡ Fun fact **You can often find me running for miles in the early
 morning, with my coffee-to-go and headphones.**
 
