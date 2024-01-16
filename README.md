@@ -10,7 +10,7 @@
   align="right"
   alt="Coding"
   width="400"
-  src="https://misc-links.s3.us-west-1.amazonaws.com/EmojiMovie.mp4"
+  src="[https://misc-links.s3.us-west-1.amazonaws.com/EmojiMovie.mp4](https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif)"
 />
 - 🔭 I’m currently working on [around the world](http://atw.wiki/) 
 - 🌱 I’m currently learning **Python** 
